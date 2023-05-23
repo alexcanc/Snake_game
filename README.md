@@ -29,6 +29,3 @@ Feel free to experiment and make changes to enhance your game!
 
 If you'd like to contribute to this project, you can fork the repository, make your changes, and submit a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
